@@ -206,9 +206,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f8e3220157cbc719",
+  "active": "c167e7b14274b145",
   "lastOpenFiles": [
     "DAY 1 CODES/README.MD",
+    "README.md",
     "DAY 1 CODES/New Text Document.txt",
     "DAY 1 CODES/LED_BLINK/src/main.cpp",
     "DAY 1 CODES/LED_BLINK/test/README",
@@ -219,7 +220,6 @@
     "DAY 1 CODES/LED_BLINK/include",
     "DAY 1 CODES/LED_BLINK/src",
     "DAY 1 CODES/LED_BLINK/platformio.ini",
-    "().md",
-    "README.md"
+    "().md"
   ]
 }

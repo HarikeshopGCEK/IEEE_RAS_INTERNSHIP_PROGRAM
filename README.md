@@ -14,6 +14,10 @@
 		5. Command will work in linux too
 4. Successfully programmed using both Arduino IDE and Platfromio
 5. Every member registered for GitHub Student Development Pack
+	1. First Create GitHub account with GCEK Mail ID
+	2. Setup two step Authentication and Also provide Payment Information (Both can be found at the section which comes when pressing your profile icon the Two step authentication under Password and Authentication And Payment information under Billing and Licensing)
+	3. Also go to Profile section and Provide your full name there
+	4. After that Under Billing And Licensing there will be Educational Benefits complete the procedures in it
 
 ### After Noon:
 1. Started learning [GitHub](https://github.com/)
