@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAY 2/README.md.md",
+                "file": "DAY 2/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "README"
             }
           },
           {
@@ -221,10 +221,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "301db528cf05c4e7",
+  "active": "e3adc8e1afbcbe41",
   "lastOpenFiles": [
     "DAY 1 CODES/README.MD",
-    "DAY 2/README.md.md",
+    "DAY 2/README.md",
     "DAY 2",
     "README.md",
     "DAY 1 CODES/New Text Document.txt",
