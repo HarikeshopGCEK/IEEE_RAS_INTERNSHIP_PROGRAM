@@ -30,6 +30,6 @@
 	3. `git push`
 	4. `git tag v0.0.1`
 	5. `git pull`
-        6. `git clone`
+	6.  `git clone`
   
 6. Discussed and Adjourned 

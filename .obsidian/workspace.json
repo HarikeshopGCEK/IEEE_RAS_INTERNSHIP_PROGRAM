@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAY 2/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -221,7 +221,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e3adc8e1afbcbe41",
+  "active": "301db528cf05c4e7",
   "lastOpenFiles": [
     "DAY 1 CODES/README.MD",
     "DAY 2/README.md",
