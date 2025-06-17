@@ -1,6 +1,5 @@
-# Projects For Day 2
-
-## For Noon
+<h1 style = "color : red">Projects For Day 2</h1>
+<h2 style = "color : yellow">For Noon</h2>
 ### 1. Get Data From DHT 11 Sensor And Display it In Serial Monitor
 
 - You can use NodeMCU or Arduino Uno 
@@ -12,8 +11,7 @@
 - Can utilize relay module
 - Follow every step above
 
-## After Noon
-
+<h2 style = "color : yellow">After Noon</h2>
 ### 1. Host a Simple Webserver Using NodeMCU
 
 - Connect to WiFi and host a website in the IP Adress of NodeMCU 
