@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DAY 3/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -223,10 +223,11 @@
   },
   "active": "301db528cf05c4e7",
   "lastOpenFiles": [
+    "README.md",
+    "DAY 3/README.md",
     "DAY 1 CODES/README.MD",
     "DAY 2/README.md",
     "DAY 2",
-    "README.md",
     "DAY 1 CODES/New Text Document.txt",
     "DAY 1 CODES/LED_BLINK/src/main.cpp",
     "DAY 1 CODES/LED_BLINK/test/README",
