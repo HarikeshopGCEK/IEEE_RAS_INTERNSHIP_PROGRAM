@@ -1,18 +1,28 @@
 #include <Arduino.h>
+#include <DHT.h>
+#define DHTPIN 2 // Pin where the DHT sensor is connected
+DHT dht(DHTPIN, DHT11);
 
-// put function declarations here:
-int myFunction(int, int);
-
-void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+void setup()
+{
+  Serial.begin(9600);
+  dht.begin();
 }
 
-void loop() {
+void loop()
+{
   // put your main code here, to run repeatedly:
-}
-
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
+  float h = dht.readHumidity();    // Read humidity
+  float t = dht.readTemperature(); // Read temperature as Celsius
+  // Check if any reads failed and exit early (to try again).
+  if (isnan(h) || isnan(t))
+  {
+    Serial.println("Failed to read from DHT sensor!");
+    return;
+  }
+  Serial.print("Humidity: ");
+  Serial.print(h);
+  Serial.print("%  Temperature: ");
+  Serial.print(t);
+  Serial.println("°C");
 }
