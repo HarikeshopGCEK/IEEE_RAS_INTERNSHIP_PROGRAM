@@ -7,7 +7,7 @@
 - Can use Arduino IDE or Platformio
 - Finish the code and Upload file in your teams repository 
 - Submit the repository link when finished working in the provided google form . Do this only once
-### 2. Communicate With Serial Monitor and Turn On And Off a Proper LED blink
+### 2. Communicate With Serial Monitor and Turn On And Off a Proper LED bulb
 
 - Can utilize relay module
 - Follow every step above
