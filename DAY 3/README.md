@@ -3,7 +3,7 @@
 ## 1.  Hosting a website through fire base
 
 - Create a simple website Named thing speak Dashboard 
-- Host it globaly using google firebase hosting service
+- Host it globally using google firebase hosting service
 	- Will Go through setting up node.js
 	- And also creating a file system for website
 	- Basics of HTML and CSS
