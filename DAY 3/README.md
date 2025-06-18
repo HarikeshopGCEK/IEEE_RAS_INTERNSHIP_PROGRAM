@@ -8,7 +8,7 @@
 	- And also creating a file system for website
 	- Basics of HTML and CSS
 
-## 2. Fetching firebase data using a .js file and displaying it in the website
+## 2. Fetching thingspeak data using a .js file and displaying it in the website
 
 - Will display the Created thingspeak channel data onto the website using a simple .js file
 
