@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "c9022f882dc81055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 4/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
             "id": "bfcf7ee1004c5cab",
             "type": "leaf",
             "state": {
@@ -52,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,10 +235,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "301db528cf05c4e7",
+  "active": "c9022f882dc81055",
   "lastOpenFiles": [
-    "README.md",
     "DAY 3/README.md",
+    "Day 4/README.md",
+    "Day 4",
+    "README.md",
     "DAY 1 CODES/README.MD",
     "DAY 2/README.md",
     "DAY 2",
@@ -236,7 +252,6 @@
     "DAY 1 CODES/LED_BLINK/lib",
     "DAY 1 CODES/LED_BLINK/include/README",
     "DAY 1 CODES/LED_BLINK/include",
-    "DAY 1 CODES/LED_BLINK/src",
     "().md"
   ]
 }
